@@ -1,3 +1,3 @@
 # 1-practical-assignment
 Заурбекова Зарема
-https://zaurbekova.github.io/1-практическое-задание/ 
+https://zaurbekova.github.io/
